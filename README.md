@@ -22,7 +22,6 @@ The analysis is divided into two parts:
 
 ## Results
 The results of the analysis can be found in the file analysis.Rmd. A summary of the main findings is provided below:
-
 - XXX
 - XXX
 - XXX
