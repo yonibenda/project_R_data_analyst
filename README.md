@@ -9,13 +9,7 @@ Firstly, we analyzed the corelation between weather and car accidents using diff
 Secondly, was a financial question addressing whether it is economically worthwhile to sell a fuel driven car and to buy an electric car.  
 
 
-## Data
-The data for this project was collected from .....
 
-## Analysis
-
-1. 
-1. 
 
 
 
